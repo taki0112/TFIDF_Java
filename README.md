@@ -1,6 +1,6 @@
 # TFIDF In Java
-단어의 TFIDF를 구하는 코드입니다.
+The code to get the TFIDF of the word.
 
 ## Input.txt
-* 한줄당 하나의 문서로, 모두 전처리가 완료되어 있어야함
-* 즉, 한줄에 하나의 문서의 단어들로 구성되어 있어야함
+* One document per line, all preprocessed
+* That is, it must consist of words from one document per line.
